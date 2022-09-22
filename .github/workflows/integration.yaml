@@ -76,6 +76,9 @@ jobs:
           - package: evmos
             command: evmosd
             account_prefix: evmos
+          - package: point
+            command: pointd
+            account_prefix: point
     steps:
       - uses: actions/checkout@v2
       - uses: cachix/install-nix-action@v15

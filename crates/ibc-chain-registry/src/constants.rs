@@ -31,6 +31,7 @@ pub const ALL_CHAINS: &[&str] = &[
     "emoney",
     "ethos",
     "evmos",
+    "point",
     "fetchhub",
     "firmachain",
     "galaxy",

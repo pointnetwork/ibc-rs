@@ -42,6 +42,7 @@
               ibc-go-v5-simapp
               apalache
               evmos
+              point
             ;
 
             python = nixpkgs.python3.withPackages (p: [

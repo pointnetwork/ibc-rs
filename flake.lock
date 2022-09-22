@@ -41,6 +41,7 @@
         "cosmos-sdk-src": "cosmos-sdk-src",
         "crescent-src": "crescent-src",
         "evmos-src": "evmos-src",
+        "point-src": "point-src",
         "flake-utils": "flake-utils",
         "gaia5-src": "gaia5-src",
         "gaia6-ordered-src": "gaia6-ordered-src",
